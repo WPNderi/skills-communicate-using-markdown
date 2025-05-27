@@ -22,6 +22,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 # Step 1: Add headers
+# My heading or 
+## My other heading
+### My other heading 
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
